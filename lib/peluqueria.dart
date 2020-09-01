@@ -6,7 +6,8 @@ class Peluqueria {
 
   String nombre;
   String descripcion;
-  int tipo; //0: Ninguno 1: Estilismo 2: Barbería 3: Infantil
+  int tipo; //Indica algún servicio extra que tenga la peluqueria
+            //0: Ninguno 1: Estilismo 2: Barberiaa 3: Infantil
   String direccion;
   double latitud;
   double longitud;
