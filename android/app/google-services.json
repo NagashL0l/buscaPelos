@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860797624121",
+    "project_id": "buscapelos",
+    "storage_bucket": "buscapelos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860797624121:android:db8c2242a47f12f13a92e8",
+        "android_client_info": {
+          "package_name": "es.uva.hackerfest.odissea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860797624121-v6utb8e06i0ek3tlk80n67bhiaioahin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPXX1W281_LIKd-S1wuzJl2VCACx20ynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860797624121-v6utb8e06i0ek3tlk80n67bhiaioahin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
