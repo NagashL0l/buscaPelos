@@ -1,0 +1,30 @@
+[
+    {
+        "Nombre": "", 
+        "Descripcion": "",
+        "Tipo": 0,
+        "Direccion": "",
+        "Latitud": 0,
+        "Longitud": 0,
+        "Horario": {
+            "HoraApertura": "",
+            "HoraCierre": ""
+        },
+        "Telefono": ""
+    },
+
+    {
+        "Nombre": "Salón de Belleza Sonia Pérez", 
+        "Descripcion": "Peluquería familiar",
+        "Tipo": 1,
+        "Direccion": "Calle de Hernando de Acuña, 53",
+        "Latitud": 41.637703,
+        "Longitud": -4.762840,
+        "Horario": [{
+            "HoraApertura": "9:00",
+            "HoraCierre": "19:00"
+        }],
+        "Telefono": "983379465"
+    }
+
+]

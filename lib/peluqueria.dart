@@ -11,6 +11,9 @@ class Peluqueria {
   String direccion;
   double latitud;
   double longitud;
+  HourFormat horaApertura;
+  HourFormat horaCierre;
+  String telefono;
   String imgLogo;
   String imgFoto;
 
@@ -25,3 +28,12 @@ class Peluqueria {
     @required this.imgFoto,
   });
 }
+
+
+/* TO-DO    🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+*  Hacer la base de datos                   🔥🔥  
+*  Conectar la base de datos con la app 🔥🔥🔥🔥
+*  Modificar aspecto de los cromos       🔥🔥🔥   
+*  🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥*/
+
+
